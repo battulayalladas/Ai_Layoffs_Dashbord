@@ -1,0 +1,21 @@
+Company_Name,Industry,Country,Year,Total_Employees,Layoffs_Count,Layoff_Percentage,Role_Type,Automation_Risk,AI_Adoption_Level,Reason,Estimated_AI_Impact
+TechNova,IT,USA,2023,10000,1500,15,Software Engineer,30,High,Restructuring,4.5
+InnoSoft,IT,India,2024,8000,1200,15,QA Tester,65,High,Automation,9.75
+FinEdge,Finance,UK,2023,6000,900,15,Data Analyst,50,Medium,Cost Cutting,7.5
+RetailHub,Retail,USA,2024,12000,3000,25,Customer Support,75,High,Automation,18.75
+HealthPlus,Healthcare,India,2023,5000,500,10,Admin Staff,70,Medium,Automation,7
+EduSmart,Education,Canada,2024,4000,600,15,Content Creator,25,Low,Market Slowdown,3.75
+AutoDrive,Manufacturing,Germany,2023,15000,2000,13.33,Assembly Worker,80,High,Automation,10.66
+FoodChain,Hospitality,USA,2024,7000,1400,20,Service Staff,60,Medium,Cost Cutting,12
+MarketGenius,Marketing,UK,2023,3000,450,15,Digital Marketer,40,High,Automation,6
+SecureNet,Cybersecurity,India,2024,4500,300,6.67,Security Analyst,20,High,Restructuring,1.33
+CloudCore,IT,USA,2023,11000,2200,20,Cloud Engineer,35,High,Automation,7
+ShopEase,E-commerce,India,2024,9000,1800,20,Warehouse Worker,85,High,Automation,17
+MediCareX,Healthcare,USA,2023,6000,600,10,Nurse Assistant,30,Low,Cost Cutting,3
+BankTrust,Finance,Canada,2024,7500,1000,13.33,Clerk,70,Medium,Automation,9.33
+EduLearn,Education,India,2023,3500,350,10,Teacher,15,Low,Market Slowdown,1.5
+AutoMech,Manufacturing,Japan,2024,14000,2800,20,Technician,65,High,Automation,13
+TravelGo,Hospitality,UK,2023,5000,750,15,Agent,55,Medium,Cost Cutting,8.25
+AdVision,Marketing,USA,2024,3200,480,15,Designer,35,High,Automation,5.25
+DataMind,IT,India,2023,10000,1000,10,Data Scientist,20,High,Restructuring,2
+LogiChain,Logistics,Germany,2024,8000,1600,20,Driver,75,Medium,Automation,15
